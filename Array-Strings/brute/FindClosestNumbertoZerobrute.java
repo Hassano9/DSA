@@ -40,4 +40,10 @@ public class FindClosestNumbertoZerobrute {
 
 }
 }
+//The Time Complexity of My CodeThe time complexity of My original code
+// was O(N), where N is the number of items in the array.
+// break down:
+// Loop 1: we loop through the array once to calculate absolute values (N steps).
+// Loop 2: we loop through the new array to find the smallest value (N steps).
+// Loop 3: we loop through the original array again to find the matching number (N steps).
 
