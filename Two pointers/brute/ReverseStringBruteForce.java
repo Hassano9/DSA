@@ -1,7 +1,7 @@
 public class ReverseStringBruteForce {
 
     public char[] reverseString(char[] s) {
-        // 1. Create a new array of the same size 
+        // 1. Create a new array of the same size
         char[] reversedArray = new char[s.length];
 
         int newIndex = 0;
