@@ -6,7 +6,7 @@ class ListNode {
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 }
 
-public class RemoveDuplicates {
+public class RemoveDuplicatesBruteForce {
 
     public ListNode deleteDuplicates(ListNode head) {
         // Start a pointer at the very beginning of the list
