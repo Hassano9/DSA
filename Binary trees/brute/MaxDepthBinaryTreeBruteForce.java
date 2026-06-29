@@ -1,6 +1,6 @@
 
 
-public class MaxDepthBinaryTree {
+public class MaxDepthBinaryTreeBruteForce {
 
     public int maxDepth(TreeNode root) {
         // Stop condition: If there is no tree here, the depth is 0
