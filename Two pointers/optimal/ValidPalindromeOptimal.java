@@ -34,7 +34,7 @@ public class ValidPalindromeOptimal {
     public static void main(String[] args) {
         ValidPalindromeOptimal solution = new ValidPalindromeOptimal();
 
-         
+
         String s1 = "A man, a plan, a canal: Panama";
         System.out.println("Example 1: " + solution.isPalindrome(s1));
 
