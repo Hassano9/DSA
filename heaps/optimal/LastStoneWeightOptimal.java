@@ -39,6 +39,6 @@ public class LastStoneWeightOptimal {
         int[] stones1 = {2, 7, 4, 1, 8, 1};
         System.out.println("Output: " + solution.lastStoneWeight(stones1));
 
-     
+
     }
 }
