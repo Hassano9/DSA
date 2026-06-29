@@ -27,7 +27,7 @@ public class ValidPalindromeBruteForce {
         ValidPalindromeBruteForce solution = new ValidPalindromeBruteForce();
 
         String s1 = "A man, a plan, a canal: Panama";
-        System.out.println("Example 1: " + solution.isPalindrome(s1));
+        System.out.println(solution.isPalindrome(s1));
 
     }
 }
